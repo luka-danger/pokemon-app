@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+body {
+    background-image: url(charmander.avif);
+    background-size: 75%; 
+}
+
+* {
+    color: white;
+    font-size: 25px;
+}
+
+#button {
+    color: black;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
